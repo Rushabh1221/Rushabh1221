@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on GitHub
 - 💬 Ask me about web development & designing and any tech related stuffs. I would love to hear that👍. 
 - 📫 How to reach me: https://www.linkedin.com/in/rushabh-solanki-0a8850211
+- 📫 How to reach me **rvsolanki0707@gmail.com**
+- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ### My GitHub stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Rushabh1221&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
