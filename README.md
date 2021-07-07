@@ -1,11 +1,10 @@
-### Heyy, I'm Rushabh Solanki 👋 
+### Heyy, I'm Rushabh Solanki 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-- 👀 I’m interested in Full stack development and web designing
-- 🌱 I’m currently learning new tech stacks for modifying my skill
-- 💞️ I’m looking to collaborate on GitHub
-- 💬 Ask me about web development & designing and any tech related stuffs. I would love to hear that👍. 
-- 📫 How to reach me: https://www.linkedin.com/in/rushabh-solanki-0a8850211
-- 📫 How to reach me **rvsolanki0707@gmail.com**
+- 👀 I’m interested in **Full stack development and web designing.**
+- 🌱 I’m currently learning **new tech stacks for modifying my skill.**
+- 💞️ I’m looking to collaborate on **GitHub.**
+- 💬 Ask me about **web development & designing and any tech related stuffs. I would love to hear that👍.** 
+- 📫 How to reach me: **rvsolanki0707@gmail.com** and **https://www.linkedin.com/in/rushabh-solanki-0a8850211**
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ### My GitHub stats:
