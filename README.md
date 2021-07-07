@@ -1,4 +1,4 @@
-Heyy, I'm Rushabh Solanki 👋 
+### Heyy, I'm Rushabh Solanki 👋 
 
 - 👀 I’m interested in Full stack development and web designing
 - 🌱 I’m currently learning new tech stacks for modifying my skill
