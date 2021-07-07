@@ -1,4 +1,4 @@
-### Heyy, I'm Rushabh Solanki 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+### Heyy  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Rushabh Solanki 👋
 
 - 👀 I’m interested in **Full stack development and web designing.**
 - 🌱 I’m currently learning **new tech stacks for modifying my skill.**
