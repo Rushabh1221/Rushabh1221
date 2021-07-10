@@ -8,7 +8,7 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ### My GitHub stats:
-
+<img src="https://github-readme-stats.vercel.app/api?username=Rushabh1221&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ### Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushabh1221&theme=tokyonight)
